@@ -7,9 +7,9 @@
 4. Files Used
 5. Additional Documentation
 6. Versioning
-### Project Title
+## Project Title
 -----------
 **The title defines the entire project.**
-#### Description
+## Description
 -----------
-What should you do
+
