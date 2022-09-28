@@ -9,6 +9,6 @@
 6. Versioning
 ### Project Title
 -----------
-== The title defines the entire project. ==
+**The title defines the entire project.**
 #### Description
 -----------
