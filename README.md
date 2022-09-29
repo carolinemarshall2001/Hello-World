@@ -9,7 +9,16 @@
 6. Versioning
 ## Project Title
 -----------
-**The title defines the entire project.**
+**Sample Title**
 ## Description
 -----------
-
+*The description should give viewers a general idea of what the project covers and what they should expect to learn*
+## How to Run Program
+-----------
+Describe how the program functions and what is needed to run it.
+| File # | Name/Link |
+|----------| ----------|
+| File 1 | [README. md](README.md |
+| File 2 | PYTHON.py |
+| File 3 | sample.xlsx |
+| File 4 | words.docx |
