@@ -19,6 +19,6 @@ Describe how the program functions and what is needed to run it.
 | File # | Name/Link |
 |----------| ----------|
 | File 1 | [README. md](https://github.com/carolinemarshall2001/Hello-World/blob/main/README.md)|
-| File 2 | [PYTHON.py] (https://github.com/carolinemarshall2001/Hello-World/blob/main/README.md)|
-| File 3 | [sample.xlsx]  |
-| File 4 | words.docx |
+| File 2 | [PYTHON.py](https://github.com/carolinemarshall2001/Hello-World/blob/main/README.md)|
+| File 3 | [sample.xlsx](https://github.com/carolinemarshall2001/Hello-World/blob/main/README.md) |
+| File 4 | [words.docx] |
